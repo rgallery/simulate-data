@@ -1,3 +1,3 @@
 # simulate-data
 GitHub learning from Data Science workshop
-testing
+A repository for learning GitHUb
